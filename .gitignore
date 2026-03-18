@@ -1,4 +1,10 @@
 
 
+
+#Ignorando o DS Store do MacOS
+.DS_Store
+=======
 # Ignorando o DS_Store do macOS
 .DS_Store
+
+
