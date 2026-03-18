@@ -1,5 +1,16 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Ignorando o DS Store do MacOS
 .DS_Store
+=======
+
+#Ignorando o DS Store do MacOS
+.DS_Store
+=======
+# Ignorando o DS_Store do macOS
+.DS_Store
+
+
+>>>>>>> a275548a83419cb256ab71135d62628600472aa0
